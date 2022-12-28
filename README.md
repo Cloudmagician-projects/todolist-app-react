@@ -9,7 +9,7 @@ todo list app develped using reactjs.
 * React JS.
 * React Responsive Modal.
 
-## Silent features:
+## Silent features-js:
 
 * User can add unlimited todos.
 * User can delete, edit and shift up and shift down the todo's.
